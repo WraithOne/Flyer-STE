@@ -1,6 +1,6 @@
 {
-    "name": "Map PWA",
-    "short_name": "MapPWA",
+    "name": "Flyer-STE PWA",
+    "short_name": "flyerstePWA",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
